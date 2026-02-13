@@ -18,7 +18,9 @@
 ---
 
 ## 🚀 About Me
+
 I build backend-focused, scalable web applications and AI-powered systems. My work centers around designing clean architectures, developing efficient APIs, and solving real-world problems using practical system design principles.
+
 ---
 ## 🔥 Featured Projects
 
