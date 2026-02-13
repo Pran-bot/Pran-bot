@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Pranav Gawande</h1>
+  <h1>Hi, I am Pranav Gawande</h1>
   <h3>Full Stack Developer | DevOps Enthusiast | System Design</h3>
   <p>
     <a href="mailto:pranavgawande.code@gmail.com">
@@ -10,9 +10,6 @@
     </a>
     <a href="https://linkedin.com/in/pranav-gawande-90536a326">
       <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Gawande-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/pranav_4151151">
-      <img src="https://img.shields.io/badge/Instagram-%40pranav__4151151-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
     </a>
   </p>
 </div>
