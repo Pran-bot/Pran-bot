@@ -64,12 +64,6 @@ I'm a passionate **Full Stack Developer** from India, specializing in building s
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pran-bot&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pran-bot&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="400"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pran-bot&theme=dark" alt="GitHub Streak" width="400"/>
 </div>
