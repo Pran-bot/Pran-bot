@@ -21,6 +21,21 @@
 I’m a passionate Full Stack Developer, specializing in building scalable web applications using modern technologies. I continuously explore new horizons in Full Stack Development, DevOps, and System Design to create robust, efficient, and impactful solutions that contribute positively to society and the nation.
 
 ---
+## 🔥 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|-----------|-----------|
+| **EasyFarm-A_Complete_Farming_Solution_Using_AI_ML** | AI-powered smart agriculture platform with crop recommendation, fertilizer suggestion, disease detection, chatbot support, and subsidy retrieval trained on real-world datasets | Python, ML, Flask/FastAPI, NLP | [View Repo](#) |
+| **Club-Website** | Responsive multi-page static website with authentication features built as a Web Development academic project | HTML, CSS, JavaScript | [View Repo](#) |
+| **Pizza-Paradise-FastAPI-HTML** | Full-stack pizza ordering application combining REST APIs with server-rendered templates, evolving into a complete production-ready system | FastAPI, HTML, Jinja2, PostgreSQL | [View Repo](#) |
+| **Telegram-AI-Assistant** | AI-powered Telegram bot for automated messaging, spam detection, contextual response generation, and smart channel discovery | Python, Telegram API, NLP, ML | [View Repo](#) |
+| **EduConnect** | Hackathon-built platform connecting students and educators with course management and real-time communication features | React, Node.js/FastAPI, PostgreSQL | [View Repo](#) |
+| **AI Assignment Checker** | Intelligent grading and submission management system automating evaluation workflows for teachers and students | Python, NLP, FastAPI, ML | [View Repo](#) |
+
+
+> 💡 **To add a new project:** Simply add a new row to the table above with `| **Project Name** | Description | Tech Stack | [View Repo](#) |`
+
+---
 
 ## 💼 Core Competencies
 
