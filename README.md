@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I am Pranav Gawande</h1>
-  <h3>Full Stack Developer | DevOps Enthusiast | System Design</h3>
+  <h3>Full Stack Developer | DevOps Enthusiast </h3>
   <p>
     <a href="mailto:pranavgawande.code@gmail.com">
       <img src="https://img.shields.io/badge/Email-pranavgawande.code@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
@@ -25,15 +25,13 @@ I’m a passionate Full Stack Developer, specializing in building scalable web a
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| **EasyFarm-A_Complete_Farming_Solution_Using_AI_ML** | AI-powered smart agriculture platform with crop recommendation, fertilizer suggestion, disease detection, chatbot support, and subsidy retrieval trained on real-world datasets | Python, ML, Flask/FastAPI, NLP | [View Repo](#) |
-| **Club-Website** | Responsive multi-page static website with authentication features built as a Web Development academic project | HTML, CSS, JavaScript | [View Repo](#) |
-| **Pizza-Paradise-FastAPI-HTML** | Full-stack pizza ordering application combining REST APIs with server-rendered templates, evolving into a complete production-ready system | FastAPI, HTML, Jinja2, PostgreSQL | [View Repo](#) |
-| **Telegram-AI-Assistant** | AI-powered Telegram bot for automated messaging, spam detection, contextual response generation, and smart channel discovery | Python, Telegram API, NLP, ML | [View Repo](#) |
-| **EduConnect** | Hackathon-built platform connecting students and educators with course management and real-time communication features | React, Node.js/FastAPI, PostgreSQL | [View Repo](#) |
-| **AI Assignment Checker** | Intelligent grading and submission management system automating evaluation workflows for teachers and students | Python, NLP, FastAPI, ML | [View Repo](#) |
+| **EasyFarm-A_Complete_Farming_Solution_Using_AI_ML** | AI-powered smart agriculture platform with crop recommendation, fertilizer suggestion, disease detection, chatbot support, and subsidy retrieval trained on real-world datasets | Python, ML, Flask/FastAPI, NLP | [View Repo](https://github.com/Pran-bot/EasyFarm-A_Complete_Farming_Solution_Using_AI_ML.git) |
+| **Club-Website** | Responsive multi-page static website with authentication features built as a Web Development academic project | HTML, CSS, JavaScript | [View Repo](https://github.com/Pran-bot/Club-Website.git) |
+| **Pizza-Paradise-FastAPI-HTML** | Full-stack pizza ordering application combining REST APIs with server-rendered templates, evolving into a complete production-ready system | FastAPI, HTML, Jinja2, PostgreSQL | [View Repo](https://github.com/Pran-bot/Pizza-Paradise-FastAPI-HTML-.git) |
+| **Telegram-AI-Assistant** | AI-powered Telegram bot for automated messaging, spam detection, contextual response generation, and smart channel discovery | Python, Telegram API, NLP, ML | [View Repo](https://github.com/Pran-bot/Telegram-AI-Assistant.git) |
+| **EduConnect** | Hackathon-built platform connecting students and educators with course management and real-time communication features | React, Node.js/FastAPI, PostgreSQL | [View Repo](https://github.com/Pran-bot/EduConnect.git) |
+| **AI Assignment Checker** | Intelligent grading and submission management system automating evaluation workflows for teachers and students | Python, NLP, FastAPI, ML | [View Repo](https://github.com/Pran-bot/AiAssigmentChecker.git) |
 
-
-> 💡 **To add a new project:** Simply add a new row to the table above with `| **Project Name** | Description | Tech Stack | [View Repo](#) |`
 
 ---
 
