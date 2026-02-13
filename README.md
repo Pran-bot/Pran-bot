@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** from India, specializing in building scalable web applications with modern technologies. I'm constantly exploring new horizons in **Full Stack Development**, **DevOps**, and **System Design** to create robust and efficient solutions.
+I’m a passionate Full Stack Developer, specializing in building scalable web applications using modern technologies. I continuously explore new horizons in Full Stack Development, DevOps, and System Design to create robust, efficient, and impactful solutions that contribute positively to society and the nation.
 
 ---
 
