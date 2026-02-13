@@ -77,8 +77,6 @@ I'm always interested in collaborating on innovative projects and discussing new
 - **Email:** [pranavgawande.code@gmail.com](mailto:pranavgawande.code@gmail.com)
 - **LinkedIn:** [Pranav Gawande](https://linkedin.com/in/pranav-gawande-90536a326)
 - **Twitter:** [@pgawande2006](https://twitter.com/pgawande2006)
-- **Instagram:** [@pranav_4151151](https://instagram.com/pranav_4151151)
-
 ---
 
 <div align="center">
