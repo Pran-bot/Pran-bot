@@ -37,40 +37,141 @@ I build backend-focused, scalable web applications and AI-powered systems. My wo
 ## 💼 Core Competencies
 
 ### **Frontend Development**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" title="Redux"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="110" alt="React"/><br><br>
+      <b>React</b><br>
+      Frontend Library
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="110" alt="TypeScript"/><br><br>
+      <b>TypeScript</b><br>
+      Typed JavaScript
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="110" alt="JavaScript"/><br><br>
+      <b>JavaScript</b><br>
+      Programming Language
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="110" alt="Tailwind CSS"/><br><br>
+      <b>Tailwind CSS</b><br>
+      CSS Framework
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="110" alt="CSS3"/><br><br>
+      <b>CSS3</b><br>
+      Styling Language
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="110" alt="HTML5"/><br><br>
+      <b>HTML5</b><br>
+      Markup Language
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="110" alt="Bootstrap"/><br><br>
+      <b>Bootstrap</b><br>
+      CSS Framework
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="110" alt="Redux"/><br><br>
+      <b>Redux</b><br>
+      State Management
+    </td>
+  </tr>
+</table>
 
 ### **Backend Development**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="110" alt="Node.js"/><br><br>
+      <b>Node.js</b><br>
+      Runtime Environment
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="110" alt="Express.js"/><br><br>
+      <b>Express.js</b><br>
+      Backend Framework
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="110" alt="Python"/><br><br>
+      <b>Python</b><br>
+      Programming Language
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="110" alt="C++"/><br><br>
+      <b>C++</b><br>
+      Systems Programming
+    </td>
+  </tr>
+</table>
 
 ### **Databases & Data**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" title="PyTorch"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="110" alt="MongoDB"/><br><br>
+      <b>MongoDB</b><br>
+      NoSQL Database
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="110" alt="PostgreSQL"/><br><br>
+      <b>PostgreSQL</b><br>
+      Relational Database
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="110" alt="MySQL"/><br><br>
+      <b>MySQL</b><br>
+      SQL Database
+    </td>
+  </tr>
+</table>
 
 ### **DevOps & Tools**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" title="Nginx"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="110" alt="Docker"/><br><br>
+      <b>Docker</b><br>
+      Containerization
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="110" alt="Nginx"/><br><br>
+      <b>Nginx</b><br>
+      Web Server
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="110" alt="Git"/><br><br>
+      <b>Git</b><br>
+      Version Control
+    </td>
+    <td width="30"></td>
+    <td align="center" width="200" height="240">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="110" alt="Linux"/><br><br>
+      <b>Linux</b><br>
+      Operating System
+    </td>
+    
+  </tr>
+</table>
 
 ---
 
